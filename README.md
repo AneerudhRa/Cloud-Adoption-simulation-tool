@@ -1,7 +1,3 @@
----
-title: "Cloud Strategy Adoption Tool"
----
-
 # Cloud Strategy Adoption Tool
 
 This Flask application assists organizations in determining the most effective cloud adoption strategy based on their specific needs. The application gathers input on company size, budget, and IT infrastructure to provide tailored recommendations for cloud strategies.
@@ -26,11 +22,7 @@ The application is built using Flask, a micro-framework for Python. It is design
 
 ### Installation
 
-1. Clone the repository:
-  
-   git clone https://github.com/yourusername/cloud-strategy-adoption.git
-   cd cloud-strategy-adoption
-   
+1. Clone the repository
 2. pip install -r requirements.txt
 3. python app.py
 
