@@ -10,4 +10,4 @@ images:
 
 options:
   logging: GCS_ONLY
-  logsBucket: gs://buck2
+  logsBucket: gs://bucket-for-logs123
