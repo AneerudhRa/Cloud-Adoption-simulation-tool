@@ -8,3 +8,6 @@ steps:
 images:
   - 'us-east1-docker.pkg.dev/$PROJECT_ID/repo1/mypythonimage:$SHORT_SHA'
 
+options:
+  logging: GCS_ONLY
+  logsBucket: gs://buck2
