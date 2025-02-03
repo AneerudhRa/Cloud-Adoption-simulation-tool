@@ -9,4 +9,4 @@ images:
   - 'us-east1-docker.pkg.dev/$PROJECT_ID/repo1/mypythonimage:$SHORT_SHA'
 
 options:
-  logging: GCS_ONLY
+  logging: CLOUD_LOGGING_ONLY
